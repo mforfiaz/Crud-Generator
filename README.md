@@ -17,7 +17,7 @@ A web-based tool to generate fully customizable CRUD (Create, Read, Update, Dele
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/crud-generator.git
+    git clone https://github.com/mforfiaz/crud-generator.git
     cd crud-generator
     ```
 
