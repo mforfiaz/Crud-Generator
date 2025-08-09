@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /
+
+# Match /projects/{token} where token can be letters, numbers, and dashes
+RewriteRule ^projects/([A-Za-z0-9-]+)$ projects.php?token=$1 [L,QSA]
